@@ -1,4 +1,4 @@
-package com.hr.ds.arrays;
+package hr.ds.arrays;
 
 public class TwoDArrayDS {
 	static int array2D(int[][] arr) {

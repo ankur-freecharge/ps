@@ -1,4 +1,4 @@
-package com.hr.ds.arrays;
+package hr.ds.arrays;
 
 import java.util.Scanner;
 
